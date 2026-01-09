@@ -243,5 +243,48 @@ nav .menu a {
   text-align: center;
 }
 
+/* brain section */
+
+#brain-section{
+  padding: 120px;
+}
+#brain-section .brain-container{
+  max-width: 1360px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  gap: 60px;
+}
+.all-content .main-headings .sub-head{
+  font-size: 16px;
+  line-height: 20px;
+  color: #30B868;
+  margin-bottom: 16px;
+}
+.all-content .main-headings  .main-head{
+  font-size: 48px;
+  color: #001931;
+  margin-bottom:16px ;
+}
+.all-content .main-headings  p{
+  font-size: 16px;
+  line-height: 20px;
+  color: #627382;
+  margin-bottom:40px ;
+}
+.all-content  h4{
+  display: flex;
+  gap:10px;
+  align-items: center;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
 
 
