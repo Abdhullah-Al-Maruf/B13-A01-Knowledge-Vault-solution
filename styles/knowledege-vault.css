@@ -39,6 +39,11 @@
   color: white;
 
 }
+/* hover effect */
+.btn:hover,
+.btn2:hover{
+  background-color: #22bdd17c;
+}
 
 .justify {
   display: flex;
