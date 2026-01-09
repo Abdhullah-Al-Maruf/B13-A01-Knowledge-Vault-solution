@@ -39,10 +39,14 @@
   color: white;
 
 }
+
 /* hover effect */
-.btn:hover,
-.btn2:hover{
+.btn:hover {
   background-color: #22bdd17c;
+}
+
+.btn2:hover {
+  background-color: rgba(29, 138, 42, 0.637);
 }
 
 .justify {
