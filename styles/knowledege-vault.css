@@ -287,6 +287,7 @@ nav .menu a {
   max-width:1360px;
   background-color: #F7F6F2;
   margin: 0 auto;
+  margin-bottom: 120px;
   padding: 80px 40px;
   border-radius: 12px;
   text-align: center;
@@ -303,6 +304,38 @@ nav .menu a {
   line-height: 24px;
   margin-bottom: 24px;
 
+}
+
+/* footer */
+#footer-section {
+    background-color: #001931;
+    color: white;
+}
+#footer-section .footer-container {
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer-container .first-part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+    padding-top: 120px;
+}
+.social-icons span {
+    margin: 0 10px;
+}
+.social-link h4{
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+.copyright {
+    color: white;
+    padding: 30px 0;
+    border-top: 1px solid #858b8855;
+    font-size: 14px;
 }
 
 
