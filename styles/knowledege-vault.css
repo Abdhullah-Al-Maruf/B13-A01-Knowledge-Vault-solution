@@ -168,6 +168,7 @@ nav .menu a {
   color: #627382;
   margin-bottom:44px;
 }
+/* note section */
 .card-container{
   
   max-width: 1360px;
@@ -279,6 +280,32 @@ nav .menu a {
   line-height: 20px;
   margin-bottom: 20px;
 }
+/* early-access-section */
+
+#early-acc-section .early-acc-container{
+  width: 85%;
+  max-width:1360px;
+  background-color: #F7F6F2;
+  margin: 0 auto;
+  padding: 80px 40px;
+  border-radius: 12px;
+  text-align: center;
+}
+#early-acc-section .early-acc-container h2{
+  font-size: 40px;
+  color: #001931;
+  margin-bottom: 16px;
+
+}
+#early-acc-section .early-acc-container p{
+  font-size: 16px;
+  color: #627382;
+  line-height: 24px;
+  margin-bottom: 24px;
+
+}
+
+
 
 
 
