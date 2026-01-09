@@ -148,3 +148,100 @@ nav .menu a {
   padding-left: 38px;
   margin-right: 100px;
 }
+
+#note-section .text-content{
+  padding-top:5%;
+  width:85% ;
+  max-width: 1360px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 44px;
+}
+.text-content h2{
+  font-size: 48px;
+  color: #001931;
+  margin-bottom: 16px;
+}
+.text-content p{
+  font-size: 16px;
+  line-height: 20px;
+  color: #627382;
+  margin-bottom:44px;
+}
+.card-container{
+  
+  max-width: 1360px;
+  display: flex;
+  gap: 24px;
+  margin: 0 auto;
+}
+.card-container .cards{
+  max-width: 322px;
+  height: 300px;
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0px 0px 8px 0px ;
+
+}
+.card-1 .card-info .circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  margin: 70px auto;
+  margin-bottom:16px;
+  background: url(../assets/Vector.png) , rgba(249, 85, 85, 1);
+  background-repeat: no-repeat;
+  background-position: center
+  
+}
+.card-2 .card-info .circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  margin: 70px auto;
+  margin-bottom:16px;
+  background: url(../assets/Bookmarks.png) , rgba(249, 85, 85, 1);
+  background-repeat: no-repeat;
+  background-position: center
+  
+}
+.card-3 .card-info .circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  margin: 70px auto;
+  margin-bottom:16px;
+  background: url(../assets/Brain.png) , rgba(249, 85, 85, 1);
+  background-repeat: no-repeat;
+  background-position: center
+  
+}
+.card-4 .card-info .circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  margin: 70px auto;
+  margin-bottom:16px;
+  background: url(../assets/Info.png) , rgba(249, 85, 85, 1);
+  background-repeat: no-repeat;
+  background-position: center
+  
+}
+
+.card-info h3{
+  font-size: 24px;
+  font-weight: 600;
+  color: #001931;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.card-info p{
+  font-size: 16px;
+  line-height: 20px;
+  color: #627382;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+
+
