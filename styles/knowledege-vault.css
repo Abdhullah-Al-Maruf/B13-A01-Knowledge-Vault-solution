@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* shared style */
+.btn{
+   background-color: #469165;
+   color: #FFFFFF;
+   border: none;
+   border-radius: 4px;
+   font-size: 16px;
+   font-weight: 600;
+   padding: 12.5px 16px ;
+   cursor: pointer;
+}
+
+
+
+
+
+
+
+/* main style */
+
+/* nav */
+nav{
+    width: 85%;
+    max-width: 1360px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin: 16px 120px;
+}
+nav .logo{
+    max-width: 139px;
+}
+nav .menu{
+    display: flex;
+    gap: 32px;
+    list-style: none;
+
+   justify-content: center;
+   align-items: center;
+
+}
+nav .menu a{
+    text-decoration: none;
+    color: #000000; 
+    font-size: 16px;
+}
+
+/* hero-section */
